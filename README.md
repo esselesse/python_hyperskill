@@ -1,2 +1,2 @@
 # python_hyperskill
-learning python
+learning python project(s)
